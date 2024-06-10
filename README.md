@@ -1,8 +1,7 @@
 <h2 align="left">I'm prtyksh, self taught programmer and linux ricer!</h2>
 
 ###
-
-<img align="right" height="150" src="https://imgur.com/57eabbe1-3e61-44a0-ba2f-975a908fee14"  />
+[Imgur](https://i.imgur.com/1kuhVnr.png)
 
 ###
 
